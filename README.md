@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Felipe+Anselmo;Back-End+Developer;Database+Specialist;AI+&+Chatbot+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Felipe;Back-End+Developer;AI+&+Chatbot+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h2 align="center">About Me</h2>
@@ -8,14 +8,14 @@
 🇧🇷 <strong>PT-BR:</strong><br>
 Olá! Sou Felipe Anselmo, estudante de Análise e Desenvolvimento de Sistemas na FIAP, atualmente no 3º semestre.
 <br><br>
-Atuo com desenvolvimento Back-End, bancos de dados, análise de dados, inteligência artificial e chatbots. Tenho grande interesse em DBA e Java, buscando sempre evoluir e aprofundar meus conhecimentos para seguir carreira nessas áreas.
+Atuo com desenvolvimento Back-End, bancos de dados, análise de dados, inteligência artificial e chatbots. Tenho grande interesse em Java e DBA, buscando sempre aprender e evoluir nessas áreas.
 <br><br>
 --------------------------------------------------------------------------------------------------------------------
 <br><br>
 🇺🇸 <strong>EN:</strong><br>
 Hello! I'm Felipe Anselmo, a Systems Analysis and Development student at FIAP, currently in my 3rd semester.
 <br><br>
-I work with Back-End development, databases, data analysis, AI, and chatbots. I am particularly interested in DBA and Java, always seeking to grow and deepen my knowledge to advance my career in these fields.
+I work with Back-End development, databases, data analysis, AI, and chatbots. I am particularly interested in Java and DBA, always seeking to learn and improve my skills in these areas.
 </p>
 
 ---
@@ -65,14 +65,6 @@ I work with Back-End development, databases, data analysis, AI, and chatbots. I 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipeanselmosc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipeanselmosc&radius=16&theme=react&area=true&order=5&hide_border=true&custom_title=Contribution Graph" height="300" alt="Contribution graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipeanselmosc&theme=radical&hide_border=true" alt="Streak stats" />
-</div>
-
 ---
 
 <h2 align="center">GitHub Trophies</h2>
@@ -100,4 +92,5 @@ I work with Back-End development, databases, data analysis, AI, and chatbots. I 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Felipeanselmosc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
 
