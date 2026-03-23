@@ -67,7 +67,7 @@ I work with Back-End development, databases, data analysis, AI, and chatbots. I 
 
 ---
 
-
+<br clear="both">
 <img src="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/snake.svg" alt="Snake animation" />
 
 ---
