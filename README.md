@@ -67,10 +67,11 @@ I work with Back-End development, databases, data analysis, AI, and chatbots. I 
 
 ---
 
-<h2 align="center">GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Felipeanselmosc&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -90,7 +91,8 @@ I work with Back-End development, databases, data analysis, AI, and chatbots. I 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Felipeanselmosc&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 
 
