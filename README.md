@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Felipe;Back-End+Developer;AI+&+Chatbot+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Olá!+Eu sou+Felipe;Back-End+Developer;AI+&+Chatbot+Enthusiast; Banco+de+dados+SQL" alt="Typing SVG" />
 </div>
 
 <h2 align="center">About Me</h2>
@@ -10,13 +10,13 @@ Olá! Sou Felipe Anselmo, estudante de Análise e Desenvolvimento de Sistemas na
 <br><br>
 Atuo com desenvolvimento Back-End, bancos de dados, análise de dados, inteligência artificial e chatbots. Tenho grande interesse em Java e DBA, buscando sempre aprender e evoluir nessas áreas.
 <br><br>
---------------------------------------------------------------------------------------------------------------------
-<br><br>
-🇺🇸 <strong>EN:</strong><br>
-Hello! I'm Felipe Anselmo, a Systems Analysis and Development student at FIAP, currently in my 3rd semester.
-<br><br>
-I work with Back-End development, databases, data analysis, AI, and chatbots. I am particularly interested in Java and DBA, always seeking to learn and improve my skills in these areas.
-</p>
+---
+  
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipeanselmosc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipeanselmosc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="Top languages" />
+</div>
 
 ---
 
@@ -59,21 +59,11 @@ I work with Back-End development, databases, data analysis, AI, and chatbots. I 
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipeanselmosc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipeanselmosc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="Top languages" />
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeanselmosc/felipeanselmosc/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ---
 
