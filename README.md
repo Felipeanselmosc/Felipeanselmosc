@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Olá!+Eu sou+Felipe;Back-End+Developer;AI+&+Chatbot+Enthusiast; Banco+de+dados+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Felipe;Back-End+Developer;AI+&+Chatbot+Enthusiast; Banco+de+dados+SQL" alt="Typing SVG" />
 </div>
 
 <h2 align="center">About Me</h2>
@@ -10,7 +10,7 @@ Olá! Sou Felipe Anselmo, estudante de Análise e Desenvolvimento de Sistemas na
 <br><br>
 Atuo com desenvolvimento Back-End, bancos de dados, análise de dados, inteligência artificial e chatbots. Tenho grande interesse em Java e DBA, buscando sempre aprender e evoluir nessas áreas.
 <br><br>
----
+
   
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
