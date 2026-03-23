@@ -6,7 +6,7 @@
 
 <p align="left">
 🇧🇷 <strong>PT-BR:</strong><br>
-Olá! Sou Felipe Anselmo, estudante de Análise e Desenvolvimento de Sistemas na FIAP, atualmente no 3º semestre.
+Olá! Sou Felipe Anselmo, estudante de Análise e Desenvolvimento de Sistemas na FIAP, atualmente no 4º semestre.
 <br><br>
 Atuo com desenvolvimento Back-End, bancos de dados, análise de dados, inteligência artificial e chatbots. Tenho grande interesse em Java e DBA, buscando sempre aprender e evoluir nessas áreas.
 <br><br>
